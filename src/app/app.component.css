@@ -1,0 +1,17 @@
+button{
+	display: block;
+	margin: auto;
+}
+
+.test{
+	display : block;
+	margin: auto;
+	width : 60%;
+	
+}
+
+p{
+	text-align : center;
+  
+}
+
